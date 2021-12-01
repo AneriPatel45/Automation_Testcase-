@@ -13,4 +13,4 @@ nation_select=  'xpath=//select[@id="nationality"]/option[text()="Iraq"]'
 search=  'xpath=//button[@id="submit"]'
 travellers= 'xpath://*[@id="hotels-search"]/div/div/div[3]/div/div/div/a'
 inc_rooms= 'xpath=//*[@id="hotels-search"]/div/div/div[3]/div/div/div/div/div[1]/div/div/div[3]'
-
+dec_adults = 'xpath=//*[@id="hotels-search"]/div/div/div[3]/div/div/div/div/div[2]/div/div/div[2]'
