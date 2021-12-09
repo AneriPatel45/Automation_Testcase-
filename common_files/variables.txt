@@ -1,4 +1,3 @@
-
 name = 'Ahmedabad' 
 two_char_name = 'Ah'
 checkin_date=  '08/01/2022'
